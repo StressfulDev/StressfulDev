@@ -12,7 +12,7 @@
 🏠 I'm beginner **Front-end Developer**  living in **Saint-Petersburg**.   
 ⭐  I'm currently learning **React**/**Redux**   
 ❤️ And I enjoy making  beautiful web sites and applications on **HTML**,**CSS**,**JavaScript** and **React**
- ## [Check my Portfolio](https://virybalkin.github.io/MyPortfolio/dist/)
+ ## [Check my Portfolio]
  
  ### Languages and Tools    
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
