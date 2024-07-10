@@ -2,13 +2,6 @@
 
 <img align="right" alt="GIF"  src="https://media.giphy.com/media/3o7bu6KDIpS4OFRP6o/giphy.gif" />
 
-#### Connect with me:
-<a href="https://vk.com/sintez328" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/26be819fcce90f75668efeb7a432b969dcc35a1e4478149c3fcd48fda5b457c3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f766b2e737667" alt="ViRyblakin Vk">
-</a> <a href="https://www.instagram.com/gorodxs/" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="ViRyblakin Insatgram">
-</a> <a href="https://t.me/stressfullsinger" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" alt="ViRyblakin Telegram">
-</a> <a href="mailto:gordiv012@gmail.com" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="ViRyblakin Gmail"></a>
-
-## About Me
 🏠 I'm **Front-end Developer**  living in **Saint-Petersburg**.   
 ❤️ I enjoy making  beautiful web sites and applications
  ## [Check my Portfolio]
